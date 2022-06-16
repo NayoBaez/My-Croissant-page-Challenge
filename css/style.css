@@ -1,0 +1,66 @@
+body {
+  margin: 50px auto;
+  max-width: 800px;
+  font-family: "Gill Sans", sans-serif;
+  background-color: rgb(239, 40, 110);
+}
+
+:root {
+  --primary-color: #fc9b3b84;
+  --secondary-color: #f5f2fe;
+  --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+  text-align: center;
+}
+
+.paragraphs {
+  display: flex;
+  margin: 30px 0;
+}
+.paragraphs p {
+  margin: 10px;
+  background: var(--secondary-color);
+  padding: 20px;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+  font-weight: lighter;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  background: var(--primary-color);
+  box-shadow: var(--box-shadow);
+  border: 1px solid #fff;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  padding: 20px 15px;
+  margin: 20px;
+  letter-spacing: 1px;
+  font-weight: lighter;
+  transition: all 200ms ease-in-out;
+  display: inline-block;
+}
+
+.button:hover {
+  background: white;
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+}
+
+.croissantphoto1 {
+  display: block;
+  margin: 0 auto;
+  border-radius: 4px;
+  border: 1px solid rgb(215, 215, 215);
+  padding: 5px;
+  box-shadow: var(--box-shadow);
+}
