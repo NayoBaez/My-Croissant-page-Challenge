@@ -5,7 +5,7 @@ This is a very simple landing page I made during the beginning stages of my Shec
 
 ## Tech Stack
 
-HTML & CSS
+HTML5 & CSS3
 
 ## Authors
 
