@@ -13,7 +13,7 @@ This is a very simple landing page I made during the beginning stages of my Shec
     
 ## Authors
 
-- [@NayoBaez](https://www.github.com/nayobaez)
+[@NayoBaez](https://www.github.com/nayobaez)
 
 
 ## 🔗 Let's Connect
