@@ -1,7 +1,7 @@
 
 # Croissant Challenge  🥐
 
-This is a very simple landing page I made during the beginning stages of my Shecodes Course. It was a croissant challenge with the purpose of learning how to make simple responsive websites.
+This is a very simple landing page I made during the beginning stages of my Shecodes Course. The purpose of this challange was for me to learn how to make a simple responsive websites, with HTML & CSS:
 
 
 ## Installation
