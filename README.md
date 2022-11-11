@@ -3,6 +3,8 @@
 
 This is a very simple landing page I made during the beginning stages of my Shecodes Course. The purpose of this challange was for me to learn how to make a simple responsive website.
 
+<img align="right" alt="weather-dashboard" width="350" src="https://raw.githubusercontent.com/NayoBaez/My-Croissant-page-Challenge/main/CROISSANT%20SCREENSHOT.png"></img>
+
 ## Tech Stack
 
 HTML5 & CSS3
