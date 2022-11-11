@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/NayoBaez/My-Croissant-page-Challenge/8fb34e37cc79a60eac68ffa892ee033d24760e25/GITHUB%20README%20BANNERS.png)](https://nayobaez.com)
+[![MasterHead](https://raw.githubusercontent.com/NayoBaez/My-Croissant-page-Challenge/main/GITHUB%20README%20BANNER%20-%20CROISSANT.png)](https://nayobaez.com)
 # Croissant Challenge  🥐
 
 This is a very simple landing page I made during the beginning stages of my Shecodes Course. The purpose of this challange was for me to learn how to make a simple responsive website.
