@@ -7,7 +7,7 @@ This is a very simple landing page I made during the beginning stages of my Shec
 
 ## Tech Stack
 
-HTML5 & CSS3 - [Project Link](https://splendorous-horse-9f6156.netlify.app)
+HTML5 & CSS3
 
 ## Authors
 
@@ -25,4 +25,6 @@ HTML5 & CSS3 - [Project Link](https://splendorous-horse-9f6156.netlify.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/nayobaezfeliz)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nayobaez)
 [![instagram](https://img.shields.io/badge/instagram-DE3C7C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nayobaez)
+[![project](https://img.shields.io/badge/project_link-96C43A?style=for-the-badge&logo=tp-link&logoColor=white)](https://splendorous-horse-9f6156.netlify.app)
+
 
