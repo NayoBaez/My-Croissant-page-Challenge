@@ -7,7 +7,7 @@ This is a very simple landing page I made during the beginning stages of my Shec
 
 ## Tech Stack
 
-HTML5 & CSS3
+HTML5 & CSS3 - [Project Link](https://splendorous-horse-9f6156.netlify.app)
 
 ## Authors
 
